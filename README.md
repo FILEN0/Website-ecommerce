@@ -1,7 +1,7 @@
 # Website-ecommerce
-This project was developed to a fictional ecommerce store
+This project was developed to a <b>fictional ecommerce store</b>
 following 10 SQL Joins statements proposed by my Database Subject in Univap.
-  To achieve the result, I had to use technologies like:
+  To achieve the result, I had to use technologies like:<br>
     - <b>Python</b><br>
       - <b>Flask framework</b><br>
         - <b>Html</b><br>
