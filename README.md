@@ -1,13 +1,17 @@
 # Website-ecommerce
-This project was developed to a <b>fictional ecommerce store</b>
-following 10 SQL Joins statements proposed by my Database Subject in Univap.
-  To achieve the result, I had to use technologies like:<br>
-    - <b>Python</b><br>
-      - <b>Flask framework</b><br>
-        - <b>Html</b><br>
-        - <b>CSS</b><br>
-        - <b>JavaScript</b><br>
-      - <b>MySQL</b><br>
-  And concepts like:<br>
-    - <b>API REST</b><br>
-    - <b>Database Normalization</b><br>
+<b>E-commerce Store Project</b><br>
+<p>This project was created as a part of my Database Subject in Univap, where I implemented 10 SQL Join statements in the context of a <b>fictional e-commerce store</b>.<br> To accomplish this, I utilized various technologies and concepts, including:</p>
+<h2>Technologies Used</h2>
+    <ul>
+        <li><strong>Python:</strong> Used for backend development.</li>
+        <li><strong>Flask Framework:</strong> Employed to build the web application rendering templates and building routes.</li>
+        <li><strong>MySQL:</strong> Chosen as the database management system.</li>
+        <li><strong>HTML:</strong> Utilized for structuring web pages.</li>
+        <li><strong>CSS:</strong> Applied for styling and layout design.</li>
+        <li><strong>JavaScript:</strong> Used for enhancing interactivity.</li>
+    </ul>
+<h2>Concepts</h2>
+    <ul>
+        <li><strong>API REST:</strong> The project incorporates RESTful API principles for communication between the frontend and backend, allowing for seamless data exchange.</li>
+        <li><strong>Database Normalization:</strong> I applied the principles of database normalization to optimize the database structure and ensure data integrity.</li>
+    </ul>
