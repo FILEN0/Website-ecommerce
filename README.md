@@ -12,6 +12,6 @@
     </ul>
 <h2>Concepts</h2>
     <ul>
-        <li><strong>API REST:</strong> The project incorporates RESTful API principles for communication between the frontend and backend, allowing for seamless data exchange.</li>
+        <li><strong>API REST:</strong> The project incorporates REST API principles for communication between the frontend and backend, allowing for seamless data exchange.</li>
         <li><strong>Database Normalization:</strong> I applied the principles of database normalization to optimize the database structure and ensure data integrity.</li>
     </ul>
